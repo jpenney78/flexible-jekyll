@@ -8,7 +8,7 @@ site-twitter: '@jpenney'
 
 # Author Settings
 author: Justin Penney
-author-img: david-freeman.jpg # add your photo
+author-img: justin-penney.jpg # add your photo
 about-author: # About me
 social-twitter: "@jpenney"
 social-facebook: "justin.penney"
@@ -22,7 +22,7 @@ discus-identifier: #mr-brown # add your discus identifier
 # Tracker
 analytics: # Google Analytics
 
-# Build Settings
+# Build Settingsgit push
 markdown: kramdown
 plugins:
   - jekyll-sitemap
