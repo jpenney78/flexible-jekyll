@@ -5,10 +5,8 @@ date: 2021-01-26 08:00:00 -0600
 description: 2021 TODO Items
 img: 2021-01-26-todo.jpg # i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Personal, Growth]
+tags: [personal, growth, 2021, list]
 ---
-# 2021 TODO Items
-
 1. Lose some weight; get back in the 170s
 1. Read (already started)
 1. ~~Fix the toilets~~
