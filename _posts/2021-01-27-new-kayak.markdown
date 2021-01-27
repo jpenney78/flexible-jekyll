@@ -1,0 +1,33 @@
+---
+layout: post
+title: New Kayak
+date: 2021-01-27 16:00:00 -0600
+description: New Kayak
+img: kayak-logo.jpg # i-rest.jpg # Add image post (optional)
+fig-caption: 3 Waters Big Fish 120
+tags: [kayak, fishing, boat, outdoors, bass, crappie, trout, bluegill, sunfish, gear, boating]
+---
+I've really enjoyed kayak fishing, but I haven't really liked the kayak I have. I got a great deal on it, but it's not really a good kayak. (An Ascend FS10T, for anyone interested.)
+
+Yesterday, I was helping a friend look for bass boats on Facebook Marketplace and dropped in "kayak" just to see what the market was looking like. The first result was this kayak, a 3 Waters Big Fish 120 that already had lots of upgrades.
+
+The kayak was listed for a pretty good price, but excluded a few of the things in the pictures. He said they were negotiable, so we negotiated.
+
+It ended up being just about perfect for my needs. It's big, stable (reportedly), and has all of the upgrades that I would have purchased for any kayak that I ended up with. All below the budget that I had set for myself!
+
+## Details
+
+- 3 Waters Big Fish 120 - 12' Sit on top fishing kayak
+  - Multi position seat (which is awesome)
+  - Rod holders
+  - Pod for a transducer
+  - Storage cubbies and LOTS of deck space
+- Anchor trolley
+- Anchor Wizard
+- Rudder kit installed
+- Lowrance Hook2 7 installed on the pod
+- Transducer mounted on the bottom of the pod
+
+Never been on the water. I can't wait to get it out to see how she feels! Which, if the weather holds as predicted, should be some time on Saturday.
+
+![The whole kayak](/assets/img/kayak-full.jpg){:class="img-responsive"}
